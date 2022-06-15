@@ -10,6 +10,6 @@ https://github.com/XiaoChenUser/image-store/blob/main/LogbackTest/appender-impl.
 https://github.com/XiaoChenUser/image-store/raw/main/LogbackTest/appender-impl.PNG   
 
 3.在项目 README.md 中使用  
-使用方式：[图片说明](图片 URL)  
+使用方式：![图片说明](图片 URL)  
 比如：  
-[logback appender](https://github.com/XiaoChenUser/image-store/raw/main/LogbackTest/appender-impl.PNG)
+![logback appender](https://github.com/XiaoChenUser/image-store/raw/main/LogbackTest/appender-impl.PNG)
